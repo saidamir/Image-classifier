@@ -18,4 +18,4 @@ The project results with an application that can be trained on any set of labele
 
 Here the network will be learning about flowers and end up as a command line application. 
 
-
+https://user-images.githubusercontent.com/20246711/57387628-8b0f8400-716b-11e9-8a04-1872fbe79987.png
