@@ -18,4 +18,4 @@ The project results with an application that can be trained on any set of labele
 
 Here the network will be learning about flowers and end up as a command line application. 
 
-![alt text](https://view87cc5390.udacity-student-workspaces.com/notebooks/aipnd-project/assets/Flowers.png)
+
